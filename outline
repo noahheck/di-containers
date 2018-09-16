@@ -1,0 +1,36 @@
+OO Introduction
+  - 3 programming structures
+    - Sequence   - top -> down (goto, include/require)
+    - Selection  - if
+    - Repetition - for/while/do
+
+  - Common situation - Sending email
+    - Get to, from, subject, message
+    - Add validations / handle error situations
+    - Send message
+    ~ Email 1
+
+    - Refactor to functions file
+    ~ Email 2
+
+    - Mention environments and differences there
+
+  - OO Programming allows us to model our systems as collections of objects that can be manipulated modularly
+    - Promotes code re-use, testability, and more declarative
+    ~ Email 3
+
+  - Services can introduce coupling back into application
+    ~ Email 4
+
+  - Dependency Injection
+    - Resolve issues with coupling
+    - Kind of end up back in the same situation as before (e.g. environment, duplication, global scope)
+    ~ Email 5
+
+DI Container
+  - Solves problems between environments, duplication
+  - Lazy loading
+    - Prevents side effects / performance issues
+  - Service definitions can be replaced to allow environment differences
+  ~ Email 6
+
