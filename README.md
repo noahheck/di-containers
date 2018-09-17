@@ -1,2 +1,2 @@
 # di-containers
-DI Containers: An Overview - first presented at Idaho-PHP Sept 2018
+DI Containers: An Overview - presented at Idaho-PHP Sept 2018
