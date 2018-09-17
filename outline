@@ -5,7 +5,7 @@ OO Introduction
     - Repetition - for/while/do
 
   - Common situation - Sending email
-    - Get to, from, subject, message
+    - Get to, subject, message
     - Add validations / handle error situations
     - Send message
     ~ Email 1

@@ -5,7 +5,7 @@
  */
 
 require_once 'EmailMessage.php';
-require_once 'EmailSender.php';
+require_once 'MailGunSender.php';
 
 $to      = $_POST['to'];
 $subject = $_POST['subject'];
